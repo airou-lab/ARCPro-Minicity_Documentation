@@ -1,2 +1,2 @@
 # ARCPro-Minicity_Documentation
-This will encompass all of the materials used to build both ARCPro and the Minicity, and of course, instructions on how to build them.
+This will encompass all of the materials used to build both ARCPro and the Minicity, and of course, instructions on how to build them. In order to maintain organization, we divied both the minicity as well as ARCPro into their own respective folders, with their instructions inside. Please refer to them to begin. If there is anything missing or questions, please reach out to dvargas88@ou.edu
