@@ -11,7 +11,7 @@ If you want to modify the car, you will need to download the CAD files. Note, we
 2 Chassis Extension (left and right)
 4 Chassis Supports
 8 Platform Supports
-3 Platforms (they're labelled)
+3 Platforms (they're labeled 1,2, and 3)
 Combined, it takes around 20 hours and 500g of filament per car to 3D print (at 25% infill on Prusa printer)
 ```
 After printing, ensure the parts were printed well, and you have all the parts mentioned above.
@@ -27,4 +27,8 @@ Be very careful not to drill into the Servo motor or DC motor.
 
 ## 5: Place the chassis extension. Screw the extension with in M2.5 14mm and secure with a hex nut. 
 
-## 6: 
+## 6: Secure Chassis Supports on top of the chassis extension, aligned with the holes. 
+
+## 7: Referring to Platform 1, on the top (has a T at the bottom)
+Secure the power converter with the M2.5 Panhead screws and plastic washers underneath the converter (between the board and the platform.) Flip the platform over and attach the hex nuts.
+** Refer to VESC Documentation to reprogram _BEFORE_ attaching to platform **
