@@ -25,10 +25,11 @@ This means from one edge to another, NOT from wheel to the other. ** Mark the ce
 ## 4: Both left and right, mark 2 inchs. Do the same for the opposite side of the chassis. Carefully drill al 3 holes using a M3 drill bit. 
 Be very careful not to drill into the Servo motor or DC motor.
 
-## 5: Place the chassis extension. Screw the extension with in M2.5 14mm and secure with a hex nut. 
+## 5: Place the chassis extension. 
+Screw the extension with in M2.5 14mm and secure with a hex nut. 
 
 ## 6: Secure Chassis Supports on top of the chassis extension, aligned with the holes. 
 
 ## 7: Referring to Platform 1, on the top (has a T at the bottom)
 Secure the power converter with the M2.5 Panhead screws and plastic washers underneath the converter (between the board and the platform.) Flip the platform over and attach the hex nuts.
-** Refer to VESC Documentation to reprogram _BEFORE_ attaching to platform **
+**Refer to VESC Documentation to reprogram _BEFORE_ attaching to platform**
