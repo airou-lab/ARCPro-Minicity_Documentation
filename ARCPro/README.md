@@ -1,4 +1,10 @@
-# Lets get started! 
+
+# ARCPro Documentation
+
+You can find more information about ArcPro in our WiKi page here:
+(https://airou-lab.github.io/docs/arc/index.html)
+#ARCPro Building Construction
+## Lets get started! 
 For the Bill of Materials, please go to our [ARCPro BOM](https://docs.google.com/spreadsheets/d/1xc6m2KjmdyQvV1nY1KGfAFUgrYJwhJbU0oIUqCPX6PE/edit?usp=sharing).
 
 We recommend following step 1 (below) while you wait for the ordered materials to arrive to save time. 
